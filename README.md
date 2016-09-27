@@ -16,4 +16,4 @@ This repo is the end result of the "[5 min quickstart](https://angular.io/docs/t
 
 I was new to TypeScript before looking on Angular2. The Atom plugin [atom-typescript](https://github.com/TypeStrong/atom-typescript) made transitioning easy with built-in linting, auto-complete and more.
 
-    apm install atom-typescript
+    npm install atom-typescript
