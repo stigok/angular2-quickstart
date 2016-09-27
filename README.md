@@ -1,5 +1,9 @@
 # Angular2 Quickstart App
 
+## NOTE!
+
+This repo was based on the Angular 2 docs as it stood February 2016. Better and more accurate code examples and quick-starts most probably exist. **This repo is no longer maintained.**
+
 This repo is the end result of the "[5 min quickstart](https://angular.io/docs/ts/latest/quickstart.html)" guide at [angular.io](https://angular.io)
 
 > Let's start from zero and build a super simple Angular 2 application in TypeScript.
